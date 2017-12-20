@@ -1,0 +1,31 @@
+/*csslint order-alphabetical: false*/
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.fo-menu
+{
+    
+    background-color: darkblue;
+    height: 40px;
+    
+}
+.fo-menu .menupont {
+    
+    height: 40px;
+    
+    margin-left: 10px;
+    margin-top:10px;
+    margin-bottom:10px;
+    
+    background-color: blue;
+    color: white;
+
+        display: inline-block;
+    padding-top: 22px;
+    padding-left: 10px;
+    padding-right:10px;
+    padding-bottom: 0px;
+    
+}

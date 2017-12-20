@@ -1,0 +1,97 @@
+/*csslint order-alphabetical: false*/
+
+body {
+  
+    font-family: 'Montserrat', sans-serif;
+    padding:50px;
+    background-color: #488ccd;
+    
+}    
+
+.fo-menu {
+    
+    background-color: #284c80;
+    width: 800px;
+    
+    
+    
+}
+
+.fo-menu .menupont
+{
+
+    
+    margin-left: 20px;
+    display: inline-block;
+    padding-top: 20px;
+    
+    color: rgb(188,248,255);
+    padding-bottom: 20px;
+   
+}
+
+.menupont:hover
+{
+color:white;
+text-decoration: underline;
+cursor:pointer;
+    
+    
+}
+
+.datum
+{
+    
+    padding-bottom: 40px;
+    padding-left: 10px;
+    font-style: italic;
+    color: #284c80;
+    font-size: 14px;
+    
+    
+    
+}
+
+.bevezeto-szoveg
+{
+    
+    padding-top: 40px;
+    line-height: 1.7;
+    color:white;
+    width: 800px;
+    
+    
+}
+
+
+.torzs-szoveg
+{
+    
+    padding-top: 40px;
+    line-height: 1.7;
+    color: white;
+    width: 800px;
+    
+    
+}
+h1
+{
+font-weight: 200;
+    font-size: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color:white;
+    
+    
+    
+}
+h2
+{
+
+    font-size: 40px;
+    color: rgb(237,245,255);
+    margin-bottom: 5px;
+    
+    
+    
+}
